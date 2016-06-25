@@ -32,16 +32,3 @@ Thumbs.db
 # iml #
 ######################
 smo_setumeiyou.iml
-.gitattributes
-.htaccess
-.idea/
-CONTRIBUTING.md
-app/
-build.properties
-build.xml
-composer.json
-index.php
-lib/
-plugins/
-Would skip repository smo_setumeiyou.wiki/
-vendors/
